@@ -1,9 +1,13 @@
 {
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-22.11";
+    scientificFhs = {
+      url = github:olynch/scientific-fhs;
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
   };
 
-  outputs = { self, nixpkgs }:
+  outputs = { self, nixpkgs, scientificFhs }:
   let
     pkgs = nixpkgs.legacyPackages.${system};
     system = "x86_64-linux";

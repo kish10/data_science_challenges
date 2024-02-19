@@ -1,0 +1,10 @@
+﻿Nutrient,Lower_Limit,Upper_Limit
+Total_Fat,70,90
+Saturated_Fat,20,30
+Trans_Fat,,2.75
+Cholesterol,,300
+Sodium,,2300
+Carbohydrates,225,400
+Protein,50,220
+Sugar,,36
+Fiber,25,38

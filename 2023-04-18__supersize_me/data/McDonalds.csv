@@ -1,0 +1,444 @@
+Restaurant_Item_Name,Food_Category,Calories,Total_Fat,Saturated_Fat,Trans_Fat,Cholesterol,Sodium,Carbohydrates,Protein,Sugar,Dietary_Fiber
+McDonald's Dr Pepper Large,Beverages,290.0,0.0,0.0,0.0,0.0,95.0,79.0,0.0,78.0,0.0
+McDonald's Dr Pepper Medium,Beverages,210.0,0.0,0.0,0.0,0.0,70.0,58.0,0.0,57.0,0.0
+McDonald's Tangy Barbeque Sauce,Toppings & Ingredients,45.0,0.0,0.0,0.0,0.0,260.0,11.0,0.0,9.0,0.0
+McDonald's Sweet N Sour Sauce,Toppings & Ingredients,50.0,0.0,0.0,0.0,0.0,160.0,11.0,1.0,9.0,0.0
+McDonald's Hamburger,Burgers,250.0,8.0,3.0,0.0,30.0,480.0,31.0,13.0,6.0,2.0
+McDonald's Cheeseburger,Burgers,300.0,12.0,5.0,0.5,40.0,680.0,33.0,15.0,7.0,2.0
+McDonald's Double Cheeseburger,Burgers,430.0,21.0,11.0,1.0,85.0,1040.0,35.0,25.0,7.0,2.0
+McDonald's Quarter Pounder w/ Cheese,Burgers,530.0,27.0,13.0,1.5,100.0,1090.0,41.0,31.0,10.0,3.0
+McDonald's Big Mac,Burgers,540.0,28.0,10.0,1.0,80.0,950.0,46.0,25.0,9.0,3.0
+McDonald's Double Quarter Pounder w/ Cheese,Burgers,770.0,45.0,21.0,2.5,175.0,1290.0,42.0,51.0,10.0,3.0
+McDonald's McChicken,Sandwiches,350.0,15.0,3.5,0.0,40.0,600.0,40.0,15.0,5.0,2.0
+McDonald's Filet O Fish,Sandwiches,390.0,19.0,4.0,0.0,45.0,560.0,38.0,17.0,5.0,2.0
+McDonald's Sausage Biscuit w/ Egg Large,Sandwiches,530.0,34.0,14.0,0.0,210.0,1160.0,38.0,17.0,3.0,2.0
+McDonald's Egg McMuffin,Sandwiches,290.0,12.0,6.0,0.0,245.0,710.0,29.0,17.0,3.0,2.0
+McDonald's Sausage McMuffin,Sandwiches,400.0,25.0,10.0,0.0,55.0,720.0,28.0,14.0,3.0,2.0
+McDonald's Sausage McMuffin w/ Egg,Sandwiches,470.0,30.0,12.0,0.0,275.0,790.0,29.0,21.0,3.0,2.0
+McDonald's Bacon Egg & Cheese Regular,Sandwiches,450.0,24.0,12.0,0.0,200.0,1290.0,40.0,18.0,3.0,3.0
+McDonald's Bacon Egg & Cheese on Scratch Biscuit Large,Sandwiches,480.0,25.0,12.0,0.0,235.0,1310.0,43.0,19.0,4.0,3.0
+McDonald's Sausage Biscuit w/ Egg Regular,Sandwiches,530.0,34.0,15.0,0.0,205.0,1140.0,38.0,17.0,3.0,2.0
+McDonald's Sausage Biscuit Regular,Sandwiches,460.0,30.0,13.0,0.0,40.0,1050.0,36.0,11.0,3.0,2.0
+McDonald's Sausage Biscuit on Scratch Biscuit Large,Sandwiches,490.0,32.0,13.0,0.0,75.0,1070.0,39.0,12.0,3.0,2.0
+McDonald's Sausage Burrito,Sandwiches,290.0,15.0,6.0,0.0,165.0,800.0,26.0,13.0,2.0,1.0
+McDonald's 4 Chicken McNuggets,Entrees,180.0,11.0,2.0,0.0,30.0,340.0,11.0,10.0,0.0,1.0
+McDonald's 6 Chicken McNuggets,Entrees,270.0,16.0,2.5,0.0,45.0,510.0,16.0,15.0,0.0,1.0
+McDonald's 10 Chicken McNuggets,Entrees,440.0,27.0,4.5,0.0,75.0,840.0,26.0,24.0,0.0,2.0
+McDonald's French Fries Small,Fried Potatoes,230.0,11.0,1.5,0.0,0.0,160.0,29.0,3.0,0.0,3.0
+McDonald's French Fries Medium,Fried Potatoes,340.0,16.0,2.0,0.0,0.0,230.0,44.0,4.0,0.0,4.0
+McDonald's French Fries Large,Fried Potatoes,510.0,24.0,3.5,0.0,0.0,350.0,66.0,7.0,0.0,6.0
+McDonald's Bacon Ranch Salad w/ Grilled Chicken,Salads,320.0,14.0,6.0,0.0,135.0,1090.0,9.0,42.0,4.0,3.0
+McDonald's Bacon Ranch Salad w/ Buttermilk Crispy Chicken,Salads,490.0,28.0,8.0,0.0,95.0,1120.0,28.0,33.0,4.0,4.0
+McDonald's Southwest Salad w/ Grilled Chicken,Salads,350.0,12.0,4.5,0.0,110.0,930.0,27.0,37.0,9.0,6.0
+McDonald's Southwest Salad w/ Buttermilk Crispy Chicken,Salads,520.0,25.0,6.0,0.0,75.0,960.0,46.0,28.0,9.0,8.0
+McDonald's Newman's Own Creamy Southwest Dressing,Toppings & Ingredients,120.0,8.0,1.5,0.0,20.0,300.0,11.0,1.0,3.0,0.0
+McDonald's Newman's Own Low Fat Balsamic Vinaigrette,Toppings & Ingredients,35.0,1.5,0.0,0.0,0.0,400.0,5.0,0.0,3.0,0.0
+McDonald's Newman's Own Low Fat Family Recipe Italian Dressing,Toppings & Ingredients,50.0,1.5,0.0,0.0,0.0,380.0,11.0,0.0,2.0,0.0
+McDonald's Newman's Own Ranch Dressing,Toppings & Ingredients,200.0,17.0,2.5,0.0,20.0,530.0,11.0,1.0,4.0,1.0
+McDonald's Creamy Ranch Sauce,Toppings & Ingredients,110.0,12.0,2.0,0.0,5.0,150.0,1.0,0.0,1.0,0.0
+McDonald's Honey,Toppings & Ingredients,50.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,11.0,0.0
+McDonald's Hotcake Syrup,Toppings & Ingredients,190.0,0.0,0.0,0.0,0.0,0.0,46.0,0.0,33.0,0.0
+McDonald's Chocolate Chip Cookie,Desserts,170.0,7.0,3.5,0.0,10.0,90.0,23.0,2.0,15.0,1.0
+McDonald's Oatmeal Raisin Cookie,Desserts,140.0,5.0,2.5,0.0,10.0,125.0,22.0,2.0,12.0,1.0
+McDonald's Baked Hot Apple Pie,Desserts,230.0,10.0,5.0,0.0,0.0,160.0,32.0,2.0,13.0,4.0
+McDonald's Hotcakes & Sausage,Entrees,520.0,26.0,8.0,0.0,55.0,820.0,57.0,15.0,13.0,2.0
+McDonald's Sausage Egg & Cheese McGriddles,Sandwiches,550.0,32.0,13.0,0.0,215.0,1280.0,45.0,20.0,15.0,2.0
+McDonald's Big Breakfast,Entrees,750.0,49.0,18.0,0.0,465.0,1490.0,53.0,25.0,3.0,3.0
+McDonald's Dr Pepper Extra Small,Beverages,120.0,0.0,0.0,0.0,0.0,40.0,32.0,0.0,32.0,0.0
+McDonald's Bacon Egg & Cheese McGriddles,Sandwiches,420.0,18.0,8.0,0.0,195.0,1230.0,45.0,18.0,15.0,2.0
+McDonald's Sausage McGriddles,Sandwiches,430.0,24.0,9.0,0.0,35.0,990.0,42.0,11.0,15.0,1.0
+McDonald's Hotcakes,Entrees,330.0,8.0,1.5,0.0,15.0,530.0,56.0,9.0,12.0,2.0
+McDonald's Side Salad,Salads,15.0,0.0,0.0,0.0,0.0,15.0,3.0,1.0,1.0,1.0
+McDonald's Hash Brown,Fried Potatoes,150.0,9.0,1.5,0.0,0.0,320.0,16.0,1.0,0.0,1.0
+McDonald's Bacon Egg & Cheese Bagel,Sandwiches,550.0,25.0,11.0,0.5,225.0,1260.0,54.0,26.0,7.0,4.0
+McDonald's McDouble,Burgers,380.0,18.0,8.0,1.0,70.0,840.0,34.0,23.0,7.0,2.0
+McDonald's Big Breakfast w/ Hotcakes,Entrees,1080.0,57.0,20.0,0.0,480.0,2020.0,109.0,34.0,15.0,6.0
+McDonald's Fruit & Maple Oatmeal w/ Brown Sugar Apples Cranberry Raisin Blend & Light Cream,Entrees,310.0,4.0,1.5,0.0,62.0,140.0,62.0,6.0,33.0,5.0
+McDonald's Fruit & Maple Oatmeal w/ Apples Cranberry Raisin Blend & Light Cream,Entrees,260.0,4.0,1.5,0.0,5.0,115.0,49.0,6.0,18.0,5.0
+McDonald's Fruit 'n Yogurt Parfait,Entrees,150.0,2.0,1.0,0.0,5.0,80.0,30.0,4.0,23.0,1.0
+McDonald's French Fries Kids,Fried Potatoes,110.0,5.0,1.0,0.0,0.0,80.0,15.0,1.0,0.0,1.0
+McDonald's Kiddie Cone,Desserts,45.0,1.0,0.5,0.0,5.0,20.0,5.0,1.0,6.0,0.0
+McDonald's Chopped Peanuts,Toppings & Ingredients,45.0,3.5,0.5,0.0,0.0,0.0,2.0,2.0,0.0,1.0
+McDonald's Sugar Packet,Toppings & Ingredients,15.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,4.0,0.0
+McDonald's Hot Caramel Sundae,Desserts,340.0,8.0,5.0,0.0,30.0,160.0,49.0,7.0,42.0,0.0
+McDonald's Hot Fudge Sundae,Desserts,330.0,8.0,8.0,0.0,25.0,180.0,42.0,8.0,47.0,1.0
+McDonald's McFlurry w/ M&Ms Candies,Desserts,630.0,22.0,14.0,0.5,50.0,200.0,77.0,13.0,86.0,2.0
+McDonald's McFlurry w/ Oreo Cookies,Desserts,510.0,17.0,9.0,0.5,45.0,280.0,60.0,12.0,64.0,1.0
+McDonald's McFlurry w/ M&Ms Candies Snack Size,Desserts,420.0,15.0,9.0,0.0,35.0,130.0,51.0,9.0,58.0,1.0
+McDonald's Strawberry Sundae,Desserts,280.0,6.0,4.0,0.0,25.0,95.0,38.0,6.0,44.0,0.0
+McDonald's Vanilla Cone,Desserts,200.0,5.0,3.5,0.0,20.0,80.0,23.0,5.0,24.0,0.0
+McDonald's Coffee Cream,Toppings & Ingredients,20.0,1.5,1.0,0.0,5.0,10.0,1.0,0.0,0.0,0.0
+McDonald's 1% Low Fat Milk Jug,Beverages,100.0,2.5,1.5,0.0,10.0,125.0,12.0,8.0,12.0,0.0
+McDonald's Minute Maid Apple Juice Box,Beverages,80.0,0.0,0.0,0.0,0.0,15.0,21.0,0.0,19.0,0.0
+McDonald's Coca Cola Small,Beverages,170.0,0.0,0.0,0.0,0.0,15.0,47.0,0.0,47.0,0.0
+McDonald's Dr Pepper Small,Beverages,170.0,0.0,0.0,0.0,0.0,55.0,46.0,0.0,45.0,0.0
+McDonald's Sprite Small,Beverages,170.0,0.0,0.0,0.0,0.0,55.0,45.0,0.0,45.0,0.0
+McDonald's Hi C Orange Lavaburst Small,Beverages,170.0,0.0,0.0,0.0,0.0,25.0,47.0,0.0,47.0,0.0
+McDonald's POWERade Mountain Berry Blast Small,Beverages,100.0,0.0,0.0,0.0,0.0,110.0,26.0,0.0,26.0,0.0
+McDonald's Sweet Tea Medium,Beverages,110.0,0.0,0.0,0.0,0.0,20.0,28.0,0.0,28.0,0.0
+McDonald's McCafe Iced Coffee Hazelnut w/ Light Cream Small,Beverages,110.0,4.0,2.5,0.0,15.0,25.0,17.0,1.0,17.0,0.0
+McDonald's Coca Cola Extra Small,Beverages,120.0,0.0,0.0,0.0,0.0,10.0,33.0,0.0,33.0,0.0
+McDonald's Coca Cola Large,Beverages,300.0,0.0,0.0,0.0,0.0,30.0,81.0,0.0,81.0,0.0
+McDonald's Coca Cola Medium,Beverages,220.0,0.0,0.0,0.0,0.0,20.0,59.0,0.0,59.0,0.0
+McDonald's Hi C Orange Lavaburst Extra Small,Beverages,120.0,0.0,0.0,0.0,0.0,15.0,33.0,0.0,33.0,0.0
+McDonald's Hi C Orange Lavaburst Large,Beverages,300.0,0.0,0.0,0.0,0.0,40.0,81.0,0.0,81.0,0.0
+McDonald's Hi C Orange Lavaburst Medium,Beverages,220.0,0.0,0.0,0.0,0.0,30.0,60.0,0.0,60.0,0.0
+McDonald's McCafe Iced Coffee Sugar Free Vanilla w/ Light Cream Large,Beverages,130.0,7.0,4.5,0.0,30.0,95.0,14.0,1.0,2.0,0.0
+McDonald's McCafe Iced Coffee Sugar Free French Vanilla w/ Light Cream Medium,Beverages,90.0,5.0,3.5,0.0,20.0,65.0,10.0,1.0,1.0,0.0
+McDonald's McCafe Iced Coffee Sugar Free French Vanilla w/ Light Cream Small,Beverages,70.0,4.0,2.5,0.0,15.0,50.0,7.0,1.0,1.0,0.0
+McDonald's McCafe Iced Coffee Caramel w/ Light Cream Large,Beverages,230.0,7.0,4.5,0.0,30.0,45.0,41.0,1.0,40.0,0.0
+McDonald's McCafe Iced Coffee Caramel w/ Light Cream Medium,Beverages,160.0,5.0,3.5,0.0,20.0,35.0,28.0,1.0,28.0,0.0
+McDonald's McCafe Iced Coffee Hazelnut w/ Light Cream & Hazelnut Syrup McCafe Large,Beverages,230.0,7.0,4.5,0.0,30.0,45.0,41.0,1.0,40.0,0.0
+McDonald's McCafe Iced Coffee Hazelnut w/ Light Cream Medium,Beverages,160.0,5.0,3.5,0.0,20.0,35.0,27.0,1.0,26.0,0.0
+McDonald's Iced Tea Large,Beverages,5.0,0.0,0.0,0.0,0.0,15.0,0.0,1.0,0.0,0.0
+McDonald's Iced Tea Medium,Beverages,5.0,0.0,0.0,0.0,0.0,10.0,0.0,1.0,0.0,0.0
+McDonald's Sweet Tea Extra Small,Beverages,60.0,0.0,0.0,0.0,0.0,10.0,15.0,0.0,15.0,0.0
+McDonald's Powerade Mountain Berry Blast Extra Small,Beverages,70.0,0.0,0.0,0.0,0.0,80.0,18.0,0.0,18.0,0.0
+McDonald's Powerade Mountain Berry Blast Large,Beverages,170.0,0.0,0.0,0.0,0.0,190.0,45.0,0.0,45.0,0.0
+McDonald's Powerade Mountain Berry Blast Medium,Beverages,130.0,0.0,0.0,0.0,0.0,140.0,33.0,0.0,33.0,0.0
+McDonald's Sprite Extra Small,Beverages,120.0,0.0,0.0,0.0,0.0,40.0,32.0,0.0,32.0,0.0
+McDonald's Sprite Large,Beverages,290.0,0.0,0.0,0.0,0.0,100.0,78.0,0.0,78.0,0.0
+McDonald's Sprite Medium,Beverages,210.0,0.0,0.0,0.0,0.0,70.0,57.0,0.0,57.0,0.0
+McDonald's Sweet Tea Large,Beverages,160.0,0.0,0.0,0.0,0.0,25.0,38.0,1.0,38.0,0.0
+McDonald's Sweet Tea Small,Beverages,90.0,0.0,0.0,0.0,0.0,15.0,21.0,0.0,21.0,0.0
+McDonald's McCafe Latte w/ Whole Milk Medium,Beverages,210.0,10.0,6.0,0.0,30.0,135.0,18.0,11.0,15.0,1.0
+McDonald's McCafe Latte w/ Whole Milk Large,Beverages,280.0,14.0,8.0,0.0,40.0,180.0,24.0,15.0,20.0,1.0
+McDonald's McCafe Latte Sugar Free French Vanilla w/ Nonfat Milk Small,Beverages,120.0,0.0,0.0,0.0,5.0,150.0,22.0,9.0,13.0,0.0
+McDonald's McCafe Latte Sugar Free French Vanilla w/ Nonfat Milk Medium,Beverages,150.0,0.0,0.0,0.0,5.0,180.0,27.0,11.0,16.0,0.0
+McDonald's McCafe Latte Sugar Free French Vanilla w/ Nonfat Milk Large,Beverages,200.0,0.0,0.0,0.0,10.0,230.0,34.0,14.0,21.0,0.0
+McDonald's Iced Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Medium,Beverages,340.0,12.0,7.0,0.0,40.0,150.0,49.0,9.0,43.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Small,Beverages,270.0,11.0,6.0,0.0,35.0,140.0,37.0,7.0,31.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Large,Beverages,450.0,16.0,9.0,0.5,50.0,250.0,64.0,13.0,56.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk & Whipped Topping Small,Beverages,130.0,4.0,2.5,0.0,20.0,90.0,15.0,7.0,13.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk & Whipped Topping Medium,Beverages,140.0,4.0,2.5,0.0,20.0,105.0,17.0,8.0,15.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk & Whipped Topping Large,Beverages,180.0,4.5,2.5,0.0,20.0,150.0,23.0,12.0,20.0,0.0
+McDonald's McCafe Strawberry Banana Smoothie Small,Beverages,190.0,0.5,0.0,0.0,5.0,40.0,44.0,2.0,39.0,2.0
+McDonald's McCafe Strawberry Banana Smoothie Medium,Beverages,240.0,1.0,0.0,0.0,5.0,50.0,55.0,3.0,49.0,3.0
+McDonald's McCafe Strawberry Banana Smoothie Large,Beverages,330.0,1.0,0.5,0.0,5.0,70.0,76.0,4.0,68.0,4.0
+McDonald's McCafe Mango Pineapple Smoothie Small,Beverages,200.0,0.5,0.0,0.0,5.0,35.0,45.0,2.0,42.0,1.0
+McDonald's McCafe Strawberry Shake w/ Whipped Cream & Maraschino Cherry Small,Beverages,520.0,15.0,10.0,1.0,60.0,170.0,66.0,11.0,73.0,0.0
+McDonald's McCafe Strawberry Shake w/ Whipped Cream & Maraschino Cherry Large,Beverages,840.0,23.0,15.0,1.0,95.0,290.0,106.0,19.0,122.0,0.0
+McDonald's McCafe Strawberry Shake w/ Whipped Cream & Maraschino Cherry Medium,Beverages,630.0,18.0,11.0,1.0,70.0,210.0,79.0,14.0,89.0,0.0
+McDonald's McCafe Vanilla Shake w/ Whipped Cream & Maraschino Cherry Small,Beverages,210.0,15.0,9.0,1.0,60.0,170.0,64.0,11.0,60.0,0.0
+McDonald's McCafe Vanilla Shake w/ Whipped Cream & Maraschino Cherry Medium,Beverages,610.0,17.0,11.0,1.0,70.0,210.0,76.0,13.0,73.0,0.0
+McDonald's McCafe Vanilla Shake w/ Whipped Cream & Maraschino Cherry Large,Beverages,810.0,22.0,14.0,1.0,90.0,280.0,102.0,18.0,100.0,0.0
+McDonald's McCafe Mango Pineapple Smoothie Large,Beverages,340.0,1.0,0.5,0.0,5.0,60.0,78.0,4.0,72.0,2.0
+McDonald's Fat Free Chocolate Milk Jug,Beverages,130.0,0.0,0.0,0.0,5.0,135.0,23.0,9.0,22.0,0.0
+McDonald's McCafe Mango Pineapple Smoothie Medium,Beverages,250.0,1.0,0.0,0.0,5.0,45.0,57.0,3.0,52.0,1.0
+McDonald's McCafe Chocolate Shake w/ Whipped Cream & Maraschino Cherry Small,Beverages,530.0,15.0,10.0,1.0,60.0,240.0,68.0,12.0,73.0,1.0
+McDonald's McCafe Chocolate Shake w/ Whipped Cream & Maraschino Cherry Medium,Beverages,630.0,18.0,11.0,1.0,70.0,290.0,81.0,14.0,88.0,1.0
+McDonald's McCafe Chocolate Shake w/ Whipped Cream & Maraschino Cherry Large,Beverages,840.0,23.0,15.0,1.0,90.0,400.0,109.0,19.0,119.0,2.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Whipped Topping Large,Beverages,470.0,16.0,9.0,0.5,50.0,220.0,67.0,13.0,60.0,2.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Whipped Topping Small,Beverages,280.0,11.0,6.0,0.0,35.0,120.0,38.0,8.0,33.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk & Whipped Topping Large,Beverages,370.0,5.0,3.0,0.0,20.0,210.0,68.0,14.0,61.0,2.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk & Whipped Topping Small,Beverages,230.0,4.5,3.0,0.0,20.0,120.0,38.0,8.0,33.0,1.0
+McDonald's McCafe Mocha w/ Whole Milk & Whipped Topping Small,Beverages,330.0,11.0,7.0,0.0,35.0,150.0,47.0,10.0,41.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk & Whipped Topping Large,Beverages,490.0,17.0,10.0,0.5,50.0,240.0,70.0,16.0,62.0,2.0
+McDonald's McCafe Mocha w/ Nonfat Milk Whipped Topping & Chocolate Drizzle Small,Beverages,270.0,3.5,2.0,0.0,15.0,150.0,49.0,11.0,43.0,2.0
+McDonald's McCafe Mocha w/ Nonfat Milk Whipped Topping & Chocolate Drizzle Large,Beverages,390.0,4.0,2.5,0.0,20.0,240.0,72.0,17.0,64.0,2.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk & Whipped Cream Small,Beverages,310.0,11.0,7.0,0.0,35.0,170.0,43.0,10.0,39.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk & Whipped Cream Medium,Beverages,380.0,13.0,8.0,0.0,40.0,210.0,54.0,12.0,47.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk & Whipped Cream Large,Beverages,470.0,16.0,10.0,0.5,50.0,270.0,65.0,15.0,57.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk & Whipped Cream Small,Beverages,240.0,3.0,2.0,0.0,15.0,170.0,44.0,10.0,38.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk & Whipped Cream Medium,Beverages,300.0,3.5,2.0,0.0,15.0,210.0,54.0,13.0,48.0,1.0
+McDonald's McCafe Latte w/ Whole Milk Small,Beverages,170.0,9.0,5.0,0.0,25.0,115.0,14.0,9.0,12.0,1.0
+McDonald's 20 Chicken McNuggets,Entrees,890.0,53.0,9.0,0.0,145.0,1680.0,53.0,49.0,0.0,2.0
+McDonald's Apple Slices,Appetizers & Sides,15.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0,0.0
+McDonald's McCafe Frappe Chocolate Chip w/ Whipped Topping Caramel Drizzle & Chocolate Drizzle Sma,Beverages,500.0,21.0,14.0,1.0,60.0,125.0,72.0,7.0,63.0,1.0
+McDonald's McCafe Frappe Chocolate Chip w/ Whipped Topping Caramel Drizzle & Chocolate Drizzle Med,Beverages,580.0,25.0,16.0,1.0,70.0,150.0,84.0,9.0,75.0,1.0
+McDonald's McCafe Frappe Chocolate Chip w/ Whipped Topping Caramel Drizzle & Chocolate Drizzle Lar,Beverages,750.0,31.0,20.0,1.5,95.0,200.0,110.0,12.0,99.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk & Chocolate Drizzle Medium,Beverages,400.0,13.0,8.0,0.0,40.0,220.0,57.0,13.0,54.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk & Chocolate Drizzle Large,Beverages,500.0,17.0,10.0,0.5,50.0,280.0,69.0,17.0,66.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Small,Beverages,220.0,7.0,3.5,0.0,20.0,115.0,32.0,7.0,30.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Chocolate Drizzle Large,Beverages,410.0,12.0,7.0,0.0,35.0,210.0,63.0,13.0,58.0,2.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk Large,Beverages,290.0,1.0,0.5,0.0,5.0,240.0,57.0,13.0,53.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk Chocolate Drizzle Espresso & Chocolate Syrup Small,Beverages,170.0,0.5,0.0,0.0,5.0,115.0,34.0,7.0,31.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk & Chocolate Drizzle Medium,Beverages,220.0,1.0,0.0,0.0,5.0,140.0,44.0,9.0,40.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk & Chocolate Drizzle Large,Beverages,320.0,1.0,0.5,0.0,5.0,210.0,64.0,13.0,59.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk & Chocolate Drizzle Small,Beverages,300.0,9.0,5.0,0.0,25.0,150.0,45.0,10.0,40.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk & Chocolate Drizzle Medium,Beverages,370.0,11.0,6.0,0.0,30.0,190.0,56.0,12.0,51.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk & Chocolate Drizzle Large,Beverages,460.0,14.0,8.0,0.0,40.0,240.0,68.0,15.0,61.0,2.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Large,Beverages,430.0,14.0,8.0,0.0,40.0,260.0,61.0,15.0,55.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk Medium,Beverages,260.0,1.0,0.0,0.0,5.0,210.0,50.0,12.0,46.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk Large,Beverages,320.0,1.0,0.5,0.0,10.0,260.0,62.0,16.0,56.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk Medium,Beverages,210.0,0.5,0.0,0.0,5.0,140.0,42.0,9.0,39.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk & Caramel Drizzle Medium,Beverages,270.0,8.0,4.5,0.0,25.0,170.0,40.0,8.0,36.0,0.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk & Caramel Drizzle Large,Beverages,390.0,12.0,7.0,0.0,35.0,240.0,59.0,12.0,53.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk & Caramel Drizzle Small,Beverages,160.0,0.5,0.0,0.0,5.0,130.0,32.0,7.0,29.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk & Caramel Drizzle Medium,Beverages,200.0,0.5,0.0,0.0,5.0,160.0,40.0,9.0,36.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk & Caramel Drizzle Large,Beverages,300.0,1.0,0.5,0.0,5.0,240.0,59.0,13.0,54.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk & Chocolate Drizzle Small,Beverages,320.0,11.0,6.0,0.0,30.0,180.0,46.0,11.0,43.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk & Caramel Drizzle Small,Beverages,210.0,7.0,3.5,0.0,20.0,135.0,32.0,7.0,28.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk Medium,Beverages,190.0,0.5,0.0,0.0,5.0,160.0,38.0,9.0,35.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk Small,Beverages,150.0,0.5,0.0,0.0,5.0,125.0,30.0,7.0,28.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Large,Beverages,380.0,12.0,7.0,0.0,35.0,240.0,57.0,12.0,52.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk Whipped Cream & Caramel Drizzle Medium,Beverages,260.0,4.5,3.0,0.0,20.0,170.0,46.0,10.0,40.0,0.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Medium,Beverages,340.0,11.0,6.0,0.0,30.0,210.0,50.0,12.0,45.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Nonfat Milk Whipped Cream & Caramel Drizzle Large,Beverages,360.0,5.0,3.0,0.0,20.0,250.0,65.0,14.0,57.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Small,Beverages,270.0,9.0,5.0,0.0,25.0,170.0,40.0,9.0,34.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Chocolate Drizzle Medium,Beverages,280.0,8.0,4.5,0.0,25.0,150.0,43.0,9.0,39.0,1.0
+McDonald's McCafe Strawberry Shake w/ Whipped Topping Small,Beverages,510.0,15.0,10.0,1.0,60.0,170.0,64.0,11.0,72.0,0.0
+McDonald's McCafe Strawberry Shake w/ Whipped Topping Medium,Beverages,620.0,18.0,11.0,1.0,70.0,210.0,77.0,14.0,88.0,0.0
+McDonald's McCafe Strawberry Shake w/ Whipped Topping Large,Beverages,830.0,23.0,15.0,1.0,95.0,290.0,104.0,19.0,121.0,0.0
+McDonald's McCafe Chocolate Shake w/ Whipped Topping Small,Beverages,530.0,15.0,10.0,1.0,60.0,240.0,66.0,12.0,72.0,1.0
+McDonald's McCafe Chocolate Shake w/ Whipped Topping Medium,Beverages,630.0,18.0,11.0,1.0,70.0,290.0,79.0,14.0,86.0,1.0
+McDonald's McCafe Chocolate Shake w/ Whipped Topping Large,Beverages,840.0,23.0,15.0,1.0,90.0,400.0,107.0,19.0,118.0,2.0
+McDonald's McCafe Vanilla Shake w/ Whipped Topping Small,Beverages,500.0,15.0,9.0,1.0,60.0,160.0,62.0,11.0,59.0,0.0
+McDonald's McCafe Vanilla Shake w/ Whipped Topping Medium,Beverages,600.0,17.0,11.0,1.0,70.0,200.0,75.0,13.0,72.0,0.0
+McDonald's McCafe Vanilla Shake w/ Whipped Topping Large,Beverages,800.0,22.0,14.0,1.0,90.0,280.0,100.0,18.0,99.0,0.0
+McDonald's McCafe Mocha w/ Whole Milk Small,Beverages,290.0,9.0,5.0,0.0,25.0,150.0,43.0,10.0,39.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk Large,Beverages,450.0,14.0,8.0,0.0,40.0,230.0,66.0,15.0,60.0,2.0
+McDonald's McCafe Iced Coffee w/ French Vanilla Syrup Large,Beverages,130.0,0.0,0.0,0.0,0.0,30.0,36.0,2.0,35.0,0.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Large,Beverages,470.0,16.0,9.0,0.5,50.0,220.0,69.0,13.0,61.0,2.0
+McDonald's McCafe Frappe Caramel w/ Whipped Topping & Caramel Drizzle Medium,Beverages,500.0,21.0,13.0,1.0,75.0,140.0,72.0,8.0,65.0,0.0
+McDonald's McCafe Frappe Mocha w/ Whipped Topping & Chocolate Drizzle Medium,Beverages,500.0,20.0,13.0,1.0,70.0,140.0,73.0,8.0,65.0,1.0
+McDonald's McCafe Frappe Caramel w/ Whipped Topping & Caramel Drizzle Large,Beverages,670.0,27.0,17.0,1.5,95.0,190.0,96.0,11.0,88.0,0.0
+McDonald's McCafe Frappe Mocha w/ Whipped Topping & Chocolate Drizzle Small,Beverages,420.0,17.0,11.0,1.0,60.0,115.0,60.0,6.0,53.0,1.0
+McDonald's McCafe Frappe Mocha w/ Whipped Topping & Chocolate Drizzle Large,Beverages,670.0,26.0,17.0,1.0,90.0,190.0,97.0,11.0,88.0,1.0
+McDonald's McCafe Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Medium,Beverages,410.0,14.0,8.0,0.0,40.0,190.0,60.0,12.0,53.0,2.0
+McDonald's McCafe Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Small,Beverages,340.0,11.0,7.0,0.0,35.0,150.0,48.0,10.0,42.0,1.0
+McDonald's McCafe Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Large,Beverages,500.0,17.0,10.0,0.5,50.0,240.0,72.0,16.0,63.0,2.0
+McDonald's McCafe Latte w/ Whole Milk & Splenda No Calorie Sweetener Medium,Beverages,210.0,10.0,6.0,0.0,30.0,135.0,19.0,11.0,16.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Splenda No Calorie Sweetener Small,Beverages,170.0,9.0,5.0,0.0,25.0,115.0,15.0,9.0,13.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk Large,Beverages,310.0,1.0,0.5,0.0,5.0,210.0,62.0,13.0,57.0,2.0
+McDonald's McCafe Latte w/ Whole Milk & Splenda No Calorie Sweetener Large,Beverages,280.0,14.0,8.0,0.0,40.0,180.0,24.0,15.0,21.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Equal 0 Calorie Sweetener Medium,Beverages,210.0,10.0,6.0,0.0,30.0,135.0,19.0,11.0,16.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Equal 0 Calorie Sweetener Small,Beverages,170.0,9.0,5.0,0.0,25.0,115.0,15.0,9.0,13.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Equal 0 Calorie Sweetener Large,Beverages,280.0,14.0,8.0,0.0,40.0,180.0,24.0,15.0,21.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Small,Beverages,290.0,11.0,6.0,0.0,35.0,125.0,40.0,8.0,34.0,1.0
+McDonald's McCafe Frappe Caramel w/ Whipped Topping & Caramel Drizzle Small,Beverages,420.0,17.0,11.0,1.0,60.0,120.0,59.0,6.0,53.0,0.0
+McDonald's McCafe Iced Coffee French Vanilla w/ Light Cream Medium,Beverages,150.0,5.0,3.5,0.0,20.0,60.0,27.0,2.0,25.0,0.0
+McDonald's McCafe Latte w/ Whole Milk & Sugar Packet Medium,Beverages,230.0,10.0,6.0,0.0,30.0,140.0,22.0,11.0,19.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Sugar Packet Small,Beverages,190.0,9.0,5.0,0.0,25.0,115.0,18.0,9.0,16.0,1.0
+McDonald's McCafe Latte w/ Whole Milk & Sugar Packet Large,Beverages,290.0,14.0,8.0,0.0,40.0,180.0,28.0,15.0,24.0,1.0
+McDonald's McCafe Iced Coffee French Vanilla w/ Light Cream Small,Beverages,100.0,4.0,2.5,0.0,15.0,40.0,16.0,2.0,15.0,0.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Whipped Cream Medium,Beverages,330.0,12.0,7.0,0.0,40.0,150.0,47.0,9.0,41.0,1.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk & Whipped Topping Medium,Beverages,270.0,4.5,3.0,0.0,20.0,150.0,48.0,10.0,42.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk & Whipped Topping Small,Beverages,260.0,10.0,6.0,0.0,35.0,135.0,35.0,7.0,31.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk & Whipped Topping Medium,Beverages,320.0,12.0,7.0,0.0,40.0,170.0,44.0,9.0,38.0,1.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk & Whipped Topping Large,Beverages,440.0,16.0,9.0,0.5,50.0,250.0,62.0,13.0,55.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Medium,Beverages,270.0,8.0,4.5,0.0,25.0,140.0,41.0,9.0,38.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk & Chocolate Drizzle Small,Beverages,220.0,7.0,4.0,0.0,20.0,115.0,34.0,7.0,31.0,1.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Large,Beverages,400.0,12.0,7.0,0.0,35.0,210.0,62.0,13.0,57.0,2.0
+McDonald's McCafe Iced Mocha w/ Nonfat Milk Small,Beverages,160.0,0.5,0.0,0.0,5.0,110.0,33.0,7.0,30.0,1.0
+McDonald's Hot Caramel Sundae w/ Peanuts & Caramel Topping,Desserts,380.0,11.0,5.0,0.0,30.0,160.0,50.0,9.0,44.0,1.0
+McDonald's Strawberry Sundae w/ Peanuts & Strawberry Topping,Desserts,320.0,10.0,4.5,0.0,25.0,95.0,40.0,8.0,45.0,1.0
+McDonald's Hot Fudge Sundae w/ Peanuts & Hot Fudge Topping,Desserts,380.0,14.0,8.0,0.0,25.0,180.0,43.0,10.0,47.0,3.0
+McDonald's 40 Chicken McNuggets,Entrees,1770.0,107.0,18.0,0.5,295.0,3370.0,105.0,98.0,1.0,7.0
+McDonald's Steak Egg & Cheese Biscuit Regular,Sandwiches,530.0,30.0,15.0,1.0,230.0,1490.0,40.0,25.0,4.0,3.0
+McDonald's Egg White Delight McMuffin,Sandwiches,250.0,8.0,4.5,0.0,35.0,720.0,29.0,17.0,3.0,1.0
+McDonald's Steak Egg & Cheese Biscuit on Scratch Biscuit Large,Sandwiches,560.0,32.0,15.0,1.0,265.0,1510.0,43.0,25.0,4.0,3.0
+McDonald's Habanero Ranch Sauce,Toppings & Ingredients,80.0,7.0,1.0,0.0,10.0,160.0,5.0,1.0,1.0,0.0
+McDonald's Cuties,Appetizers & Sides,35.0,0.0,0.0,0.0,0.0,0.0,8.0,0.0,6.0,0.0
+McDonald's McCafe White Hot Chocolate w/ Whole Milk & Whipped Topping,Beverages,350.0,13.0,8.0,0.0,40.0,180.0,48.0,12.0,46.0,0.0
+McDonald's McCafe Iced Coffee French Vanilla w/ Light Cream & French Vanilla Syrup Large,Beverages,220.0,7.0,4.5,0.0,30.0,65.0,40.0,3.0,37.0,0.0
+McDonald's White Hot Chocolate w/ Whole Milk & Whipped Cream Medium,Beverages,420.0,15.0,9.0,0.5,50.0,230.0,59.0,14.0,57.0,0.0
+McDonald's White Hot Chocolate w/ Whole Milk & Whipped Cream Large,Beverages,520.0,19.0,11.0,0.5,60.0,290.0,71.0,18.0,69.0,0.0
+McDonald's McCafe Mocha w/ Nonfat Milk Small,Beverages,220.0,1.0,0.0,0.0,5.0,140.0,43.0,10.0,39.0,1.0
+McDonald's McCafe Mocha w/ Nonfat Milk Large,Beverages,340.0,1.0,0.5,0.0,10.0,230.0,67.0,16.0,61.0,2.0
+McDonald's White Hot Chocolate w/ Whole Milk Small,Beverages,310.0,10.0,6.0,0.0,35.0,180.0,44.0,11.0,44.0,0.0
+McDonald's White Hot Chocolate w/ Whole Milk Medium,Beverages,380.0,13.0,7.0,0.0,40.0,220.0,55.0,14.0,55.0,0.0
+McDonald's White Hot Chocolate w/ Whole Milk Large,Beverages,480.0,17.0,10.0,0.0,50.0,280.0,67.0,18.0,67.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Medium,Beverages,260.0,8.0,4.5,0.0,25.0,160.0,38.0,8.0,35.0,0.0
+McDonald's Artisan Grilled Chicken Sandwich,Sandwiches,380.0,6.0,2.0,0.0,95.0,960.0,44.0,37.0,11.0,3.0
+McDonald's McCafe Iced Coffee w/ French Vanilla Syrup Medium,Beverages,90.0,0.0,0.0,0.0,0.0,20.0,25.0,1.0,24.0,0.0
+McDonald's McCafe Iced Coffee w/ French Vanilla Syrup Small,Beverages,50.0,0.0,0.0,0.0,0.0,15.0,15.0,1.0,14.0,0.0
+McDonald's McCafe Iced Coffee w/ Caramel Syrup Large,Beverages,150.0,0.0,0.0,0.0,0.0,25.0,39.0,2.0,38.0,0.0
+McDonald's McCafe Iced Coffee w/ Caramel Syrup & Premium Roast Coffee Medium,Beverages,100.0,0.0,0.0,0.0,0.0,15.0,26.0,1.0,26.0,0.0
+McDonald's McCafe Iced Coffee w/ Caramel Syrup & Premium Roast Coffee Small,Beverages,70.0,0.0,0.0,0.0,0.0,10.0,20.0,1.0,19.0,0.0
+McDonald's McCafe Iced Coffee w/ Hazelnut Syrup & Premium Roast Coffee Large,Beverages,150.0,0.0,0.0,0.0,0.0,25.0,40.0,2.0,38.0,0.0
+McDonald's McCafe Iced Coffee w/ Hazelnut Syrup & Premium Roast Coffee Medium,Beverages,100.0,0.0,0.0,0.0,0.0,15.0,26.0,1.0,25.0,0.0
+McDonald's McCafe Iced Coffee w/ Hazelnut Syrup & Premium Roast Coffee Small,Beverages,60.0,0.0,0.0,0.0,0.0,10.0,17.0,1.0,16.0,0.0
+McDonald's McCafe Iced Coffee w/ Sugar Free French Vanilla Syrup Large,Beverages,45.0,0.0,0.0,0.0,0.0,70.0,13.0,2.0,0.0,0.0
+McDonald's McCafe Iced Coffee w/ Sugar Free French Vanilla Syrup Medium,Beverages,30.0,0.0,0.0,0.0,0.0,50.0,9.0,1.0,0.0,0.0
+McDonald's McCafe Iced Coffee w/ Sugar Free French Vanilla Syrup Small,Beverages,20.0,0.0,0.0,0.0,0.0,35.0,6.0,1.0,0.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Small,Beverages,200.0,6.0,3.5,0.0,20.0,130.0,30.0,7.0,27.0,0.0
+McDonald's Strawberry & Cream Pie,Desserts,300.0,15.0,9.0,0.0,15.0,190.0,36.0,3.0,15.0,1.0
+McDonald's McFlurry w/ Oreo Cookies Snack Size,Desserts,340.0,11.0,6.0,0.0,30.0,180.0,40.0,8.0,42.0,0.0
+McDonald's McCafe Iced Coffee Caramel w/ Light Cream Small,Beverages,120.0,4.0,2.5,0.0,15.0,40.0,22.0,1.0,20.0,0.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Medium,Beverages,330.0,12.0,7.0,0.0,40.0,180.0,46.0,9.0,39.0,0.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk Whipped Topping Espresso & Chocolate Caramel Syrup,Beverages,360.0,3.5,2.0,0.0,20.0,260.0,65.0,16.0,58.0,1.0
+McDonald's McCafe Caramel Mocha w/ Nonfat Milk Small,Beverages,200.0,0.5,0.0,0.0,5.0,160.0,40.0,10.0,36.0,1.0
+McDonald's Buttermilk Crispy Chicken Sandwich,Sandwiches,570.0,23.0,5.0,0.0,60.0,1050.0,64.0,28.0,11.0,4.0
+McDonald's Yoplait Go Gurt Low Fat Strawberry Yogurt,Appetizers & Sides,50.0,0.5,0.0,0.0,5.0,30.0,8.0,3.0,6.0,0.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Large,Beverages,480.0,17.0,10.0,0.5,50.0,270.0,67.0,15.0,58.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Medium,Beverages,390.0,14.0,8.0,0.0,40.0,220.0,56.0,12.0,48.0,1.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Whipped Topping & Caramel Drizzle Small,Beverages,320.0,11.0,7.0,0.0,35.0,180.0,45.0,10.0,39.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk Whipped Topping & Chocolate Drizzle Large,Beverages,540.0,20.0,12.0,0.5,60.0,280.0,73.0,17.0,68.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk Whipped Topping & Chocolate Drizzle Medium,Beverages,440.0,16.0,9.0,0.5,50.0,220.0,61.0,14.0,56.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk Whipped Topping & Chocolate Drizzle Small,Beverages,360.0,13.0,8.0,0.0,40.0,180.0,50.0,11.0,45.0,1.0
+McDonald's McCafe Iced Coffee w/ Liquid Sugar Large,Beverages,160.0,0.0,0.0,0.0,0.0,25.0,41.0,2.0,40.0,0.0
+McDonald's McCafe Iced Coffee w/ Liquid Sugar Medium,Beverages,170.0,5.0,3.5,0.0,20.0,60.0,30.0,2.0,28.0,0.0
+McDonald's McCafe Iced Coffee w/ Liquid Sugar & Light Cream Small,Beverages,130.0,4.0,2.5,0.0,15.0,40.0,23.0,1.0,22.0,0.0
+McDonald's McCafe Iced Coffee w/ Liquid Sugar & Premium Roast Coffee Small,Beverages,80.0,0.0,0.0,0.0,0.0,10.0,21.0,1.0,21.0,0.0
+McDonald's McCafe Peppermint Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Large,Beverages,500.0,17.0,10.0,1.0,50.0,240.0,71.0,16.0,63.0,1.0
+McDonald's McCafe Peppermint Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Medium,Beverages,410.0,14.0,8.0,0.5,40.0,190.0,59.0,12.0,52.0,1.0
+McDonald's McCafe Peppermint Mocha w/ Whole Milk Whipped Topping & Chocolate Drizzle Small,Beverages,340.0,12.0,7.0,0.5,35.0,150.0,48.0,10.0,42.0,1.0
+McDonald's Cinnamon Coffee Cake Muffin,Desserts,430.0,18.0,4.5,0.0,50.0,310.0,62.0,4.0,39.0,1.0
+McDonald's Extra Value Meal w/ Bacon Egg & Cheese Biscuit,Entrees,600.0,33.0,0.0,0.0,0.0,0.0,57.0,22.0,0.0,0.0
+McDonald's Extra Value Meal w/ Bacon Egg & Cheese McGriddles,Entrees,570.0,27.0,0.0,0.0,0.0,0.0,62.0,22.0,0.0,0.0
+McDonald's Extra Value Meal w/ Sausage McMuffin w/ Egg,Entrees,620.0,39.0,0.0,0.0,0.0,0.0,46.0,24.0,0.0,0.0
+McDonald's Extra Value Meal w/ Egg McMuffin,Entrees,450.0,21.0,0.0,0.0,0.0,0.0,46.0,21.0,0.0,0.0
+McDonald's Extra Value Meal w/ 2 Sausage Burritos,Entrees,440.0,24.0,0.0,0.0,0.0,0.0,43.0,16.0,0.0,0.0
+McDonald's Extra Value Meal w/ Sausage Biscuit w/ Egg,Entrees,680.0,43.0,0.0,0.0,0.0,0.0,55.0,20.0,0.0,0.0
+McDonald's Extra Value Meal w/ Sausage McGriddles,Entrees,580.0,34.0,0.0,0.0,0.0,0.0,59.0,14.0,0.0,0.0
+McDonald's Extra Value Meal w/ Sausage Egg & Cheese McGriddles,Entrees,700.0,41.0,0.0,0.0,0.0,0.0,62.0,23.0,0.0,0.0
+McDonald's Extra Value Meal w/ Artisan Grilled Chicken Sandwich,Entrees,930.0,22.0,0.0,0.0,0.0,0.0,147.0,41.0,0.0,0.0
+McDonald's Extra Value Meal w/ Big Mac,Entrees,1090.0,44.0,0.0,0.0,0.0,0.0,149.0,29.0,0.0,0.0
+McDonald's Extra Value Meal w/ Buttermilk Crispy Chicken Sandwich,Entrees,1130.0,39.0,0.0,0.0,0.0,0.0,168.0,32.0,0.0,0.0
+McDonald's Extra Value Meal w/ 10 Chicken Nuggets,Entrees,1000.0,43.0,0.0,0.0,0.0,0.0,129.0,29.0,0.0,0.0
+McDonald's Extra Value Meal w/ Double Quarter Pounder w/ Cheese,Entrees,1330.0,61.0,0.0,0.0,0.0,0.0,145.0,55.0,0.0,0.0
+McDonald's Extra Value Meal w/ Filet O Fish,Entrees,940.0,34.0,0.0,0.0,0.0,0.0,141.0,21.0,0.0,0.0
+McDonald's Extra Value Meal w/ Quarter Pounder w/ Cheese,Entrees,1090.0,43.0,0.0,0.0,0.0,0.0,35.0,144.0,0.0,0.0
+McDonald's Fruit & Maple Oatmeal,Entrees,310.0,4.0,1.5,0.0,5.0,140.0,62.0,6.0,33.0,5.0
+McDonald's Honey Mustard Sauce,Toppings & Ingredients,50.0,3.0,0.0,0.0,5.0,110.0,6.0,0.0,5.0,1.0
+McDonald's McCafe Caramel Macchiato w/ Whole Milk Medium,Beverages,320.0,9.0,5.0,0.0,30.0,430.0,50.0,10.0,45.0,0.0
+McDonald's Strawberry & Cream Pie,Desserts,290.0,15.0,9.0,0.0,10.0,160.0,34.0,3.0,13.0,2.0
+McDonald's Extra Value Meal w/ Sausage McGriddles & Medium Coffee,Sandwiches,580.0,34.0,10.0,0.0,35.0,1340.0,59.0,15.0,15.0,3.0
+McDonald's Extra Value Meal w/ Sausage Burrito & Small Coffee,Sandwiches,440.0,24.0,7.0,0.0,165.0,1140.0,43.0,16.0,3.0,3.0
+McDonald's Classic Chicken Sandwich,Sandwiches,510.0,23.0,4.0,0.0,65.0,1040.0,50.0,25.0,6.0,3.0
+McDonald's McCafe Vanilla Shake Large,Beverages,800.0,22.0,14.0,1.0,90.0,370.0,99.0,19.0,99.0,0.0
+McDonald's Newmans Own Creamy French Dressing,Toppings & Ingredients,300.0,23.0,3.5,0.0,0.0,450.0,22.0,0.0,22.0,1.0
+McDonald's Extra Value Meal w/ 20 Pc Nuggets Medium Coke & Medium Fries,Entrees,1440.0,69.0,11.0,0.0,145.0,1970.0,153.0,53.0,58.0,7.0
+McDonald's Baked Hot Apple Pie,Desserts,230.0,10.0,6.0,0.0,0.0,170.0,33.0,2.0,13.0,2.0
+McDonald's Newmans Own Low Fat Balsamic Vinaigrette,Toppings & Ingredients,35.0,1.5,0.0,0.0,0.0,400.0,5.0,0.0,3.0,0.0
+McDonald's Tartar Sauce Cup,Toppings & Ingredients,140.0,15.0,2.5,0.0,10.0,150.0,0.0,0.0,0.0,0.0
+McDonald's Artisan Grilled Chicken Sandwich,Sandwiches,380.0,7.0,2.0,0.0,95.0,1110.0,44.0,37.0,11.0,3.0
+McDonald's Sprite Extra Small,Beverages,110.0,0.0,0.0,0.0,0.0,50.0,29.0,0.0,29.0,0.0
+McDonald's Fanta Orange Small,Beverages,170.0,0.0,0.0,0.0,0.0,40.0,44.0,0.0,43.0,0.0
+McDonald's Hotcakes,Entrees,600.0,16.0,7.0,0.0,45.0,610.0,102.0,9.0,45.0,2.0
+McDonald's 1/4 lb Sweet BBQ Bacon Burger,Burgers,700.0,38.0,14.0,1.5,110.0,1310.0,52.0,38.0,14.0,3.0
+McDonald's McCafe Cappuccino w/ Whole Milk Large,Beverages,210.0,11.0,6.0,0.0,35.0,140.0,17.0,11.0,16.0,0.0
+McDonald's McFlurry w/ M&Ms Candies Regular Size,Desserts,630.0,22.0,14.0,0.5,50.0,200.0,77.0,13.0,86.0,2.0
+McDonald's 6 Buttermilk Crispy Tenders,Entrees,730.0,40.0,6.0,0.0,155.0,2040.0,34.0,59.0,1.0,2.0
+McDonald's Honest Kids Appley Ever After Organic Juice Drink,Beverages,35.0,0.0,0.0,0.0,0.0,10.0,9.0,0.0,8.0,0.0
+McDonald's Fanta Orange Large,Beverages,120.0,0.0,0.0,0.0,0.0,30.0,33.0,0.0,32.0,0.0
+McDonald's Egg White Delight McMuffin,Sandwiches,260.0,8.0,4.5,0.0,35.0,750.0,29.0,16.0,3.0,2.0
+McDonald's Sprite Small,Beverages,150.0,0.0,0.0,0.0,0.0,70.0,39.0,0.0,38.0,0.0
+McDonald's Extra Value Meal w/ Filet O Fish Medium Coke & Medium Fries,Sandwiches,970.0,36.0,7.0,0.0,50.0,940.0,140.0,22.0,63.0,6.0
+McDonald's Fanta Orange Extra Small,Beverages,120.0,0.0,0.0,0.0,0.0,30.0,33.0,0.0,32.0,0.0
+McDonald's 1/4 lb Pico Guacamole Burger,Burgers,580.0,33.0,12.0,1.5,95.0,920.0,41.0,29.0,7.0,4.0
+McDonald's Sweet N Sour Sauce,Toppings & Ingredients,50.0,0.0,0.0,0.0,0.0,160.0,11.0,1.0,10.0,0.0
+McDonald's Extra Value Meal w/ Bacon Egg & Cheese Biscuit,Entrees,600.0,33.0,14.0,0.0,200.0,1640.0,57.0,22.0,3.0,4.0
+McDonald's Sprite Large,Beverages,280.0,0.0,0.0,0.0,0.0,130.0,74.0,0.0,73.0,0.0
+McDonald's Sweet Tea Extra Small,Beverages,90.0,0.0,0.0,0.0,0.0,15.0,21.0,0.0,21.0,0.0
+McDonald's 4 Buttermilk Crispy Tenders,Entrees,490.0,26.0,4.0,0.0,105.0,1360.0,22.0,39.0,1.0,1.0
+McDonald's McCafe French Vanilla Cappuccino w/ Whole Milk Large,Beverages,310.0,9.0,5.0,0.0,30.0,120.0,47.0,9.0,45.0,0.0
+McDonald's McCafe French Vanilla Latte w/ Whole Milk Large,Beverages,410.0,14.0,8.0,0.0,40.0,190.0,59.0,15.0,56.0,1.0
+McDonald's McCafe Chocolate Shake Small,Beverages,530.0,15.0,9.0,0.5,60.0,260.0,68.0,12.0,74.0,1.0
+McDonald's McCafe Hot Chocolate w/ Whole Milk Small,Beverages,370.0,14.0,8.0,0.0,40.0,190.0,51.0,11.0,48.0,1.0
+McDonald's Bacon Ranch Grilled Chicken Salad,Salads,320.0,14.0,6.0,0.0,135.0,1230.0,9.0,42.0,4.0,3.0
+McDonald's Coca Cola Small,Beverages,150.0,0.0,0.0,0.0,0.0,35.0,40.0,0.0,40.0,0.0
+McDonald's McCafe Caramel Macchiato w/ Whole Milk Small,Beverages,260.0,7.0,4.0,0.0,25.0,340.0,41.0,8.0,37.0,0.0
+McDonald's McCafe Latte w/ Whole Milk Medium,Beverages,190.0,10.0,6.0,0.0,30.0,135.0,15.0,10.0,15.0,0.0
+McDonald's McCafe Frappe Chocolate Chip Large,Beverages,760.0,31.0,20.0,1.0,95.0,210.0,110.0,12.0,100.0,1.0
+McDonald's Signature Sauce,Toppings & Ingredients,100.0,9.0,1.5,0.0,10.0,180.0,3.0,0.0,2.0,0.0
+McDonald's Extra Value Meal w/ Sausage Biscuit,Entrees,680.0,43.0,16.0,0.0,205.0,1480.0,55.0,20.0,3.0,4.0
+McDonald's McCafe Caramel Latte w/ Whole Milk Large,Beverages,420.0,14.0,8.0,0.0,40.0,180.0,62.0,15.0,59.0,1.0
+McDonald's Sausage Biscuit w/ Egg,Sandwiches,530.0,34.0,15.0,0.0,205.0,1140.0,38.0,17.0,3.0,2.0
+McDonald's Powerade Mountain Berry Blast Medium,Beverages,120.0,0.0,0.0,0.0,0.0,160.0,31.0,0.0,31.0,0.0
+McDonald's Extra Value Meal w/ Quarter Pounder Medium Coke & Medium Fries,Burgers,1090.0,43.0,15.0,1.5,100.0,1380.0,142.0,35.0,67.0,7.0
+McDonald's Coca Cola Extra Small,Beverages,150.0,0.0,0.0,0.0,0.0,35.0,40.0,0.0,40.0,0.0
+McDonald's Coca Cola Medium,Beverages,220.0,0.0,0.0,0.0,0.0,50.0,57.0,0.0,57.0,0.0
+McDonald's Hash Browns,Fried Potatoes,150.0,9.0,1.5,0.0,0.0,320.0,16.0,1.0,0.0,1.0
+McDonald's McCafe French Vanilla Iced Coffee w/ Light Cream Small,Beverages,120.0,5.0,3.5,0.0,20.0,50.0,19.0,2.0,17.0,0.0
+McDonald's McCafe Mocha w/ Whole Milk Small,Beverages,340.0,12.0,7.0,0.0,35.0,140.0,49.0,9.0,45.0,2.0
+McDonald's Southwest Buttermilk Crispy Chicken Salad,Salads,520.0,25.0,6.0,0.0,75.0,960.0,46.0,28.0,9.0,8.0
+McDonald's Strawberry Sundae,Desserts,320.0,10.0,4.5,0.0,25.0,95.0,40.0,8.0,45.0,1.0
+McDonald's Extra Value Meal w/ Bacon Egg & Cheese McGriddles & Medium Coffee,Entrees,570.0,27.0,9.0,0.0,195.0,1580.0,63.0,22.0,15.0,4.0
+McDonald's McCafe Mocha Frappe Medium,Beverages,510.0,20.0,13.0,1.0,70.0,150.0,73.0,8.0,66.0,1.0
+McDonald's Ketchup Packet,Toppings & Ingredients,10.0,0.0,0.0,0.0,0.0,90.0,2.0,0.0,2.0,0.0
+McDonald's Big Breakfast w/ Hotcakes,Entrees,1350.0,65.0,25.0,0.5,510.0,2100.0,155.0,35.0,48.0,6.0
+McDonald's McCafe Iced Caramel Mocha w/ Whole Milk Small,Beverages,270.0,11.0,6.0,0.0,35.0,140.0,37.0,7.0,31.0,0.0
+McDonald's McCafe French Vanilla Latte w/ Whole Milk Small,Beverages,230.0,7.0,4.0,0.0,20.0,100.0,33.0,8.0,32.0,0.0
+McDonald's Newmans Own Low Fat Family Recipe Italian Dressing,Toppings & Ingredients,50.0,1.5,0.0,0.0,0.0,380.0,8.0,0.0,2.0,1.0
+McDonald's Sausage McMuffin w/ Egg,Sandwiches,470.0,30.0,12.0,0.0,275.0,810.0,30.0,21.0,3.0,2.0
+McDonald's Extra Value Meal w/ 6 Pc Nuggets Medium Coke & Medium Fries,Entrees,820.0,32.0,5.0,0.0,45.0,790.0,117.0,19.0,57.0,5.0
+McDonald's McCafe Iced Mocha w/ Whole Milk Small,Beverages,290.0,12.0,7.0,0.0,35.0,135.0,40.0,7.0,36.0,0.0
+McDonald's Extra Value Meal w/ 10 Pc Nuggets Medium Coke & Medium Fries,Entrees,1000.0,43.0,7.0,0.0,75.0,1120.0,127.0,29.0,57.0,6.0
+McDonald's McCafe Latte w/ Whole Milk Small,Beverages,140.0,8.0,4.5,0.0,25.0,100.0,12.0,7.0,11.0,0.0
+McDonald's McCafe Caramel Cappuccino w/ Whole Milk Large,Beverages,350.0,9.0,5.0,0.0,30.0,490.0,55.0,11.0,50.0,0.0
+McDonald's Powerade Mountain Berry Blast Large,Beverages,120.0,0.0,0.0,0.0,0.0,160.0,31.0,0.0,31.0,0.0
+McDonald's Extra Value Meal w/ Egg McMuffin & Medium Coffee,Sandwiches,450.0,21.0,7.0,0.0,245.0,1080.0,47.0,21.0,3.0,3.0
+McDonald's Bacon McDouble,Burgers,450.0,22.0,10.0,1.0,85.0,1080.0,34.0,28.0,7.0,2.0
+McDonald's McCafe French Vanilla Cappuccino w/ Whole Milk Medium,Beverages,230.0,6.0,3.5,0.0,20.0,85.0,37.0,6.0,35.0,0.0
+McDonald's Extra Value Meal w/ Large Bacon Egg & Cheese Biscuit & Small Coffee,Sandwiches,150.0,9.0,1.5,0.0,0.0,340.0,17.0,3.0,0.0,1.0
+McDonald's McCafe Mocha Frappe Small,Beverages,420.0,17.0,11.0,0.5,60.0,120.0,60.0,7.0,54.0,1.0
+McDonald's Extra Value Meal w/ Sausage McGriddles,Entrees,580.0,34.0,10.0,0.0,35.0,1330.0,59.0,14.0,15.0,3.0
+McDonald's McCafe Chocolate Shake Medium,Beverages,630.0,18.0,11.0,1.0,70.0,310.0,81.0,14.0,90.0,1.0
+McDonald's McCafe Caramel Iced Coffee w/ Light Cream Small,Beverages,140.0,5.0,3.5,0.0,20.0,220.0,23.0,3.0,20.0,0.0
+McDonald's Triple Cheeseburger,Burgers,520.0,28.0,13.0,1.5,110.0,1160.0,36.0,32.0,7.0,2.0
+McDonald's McCafe Caramel Frappe Small,Beverages,420.0,18.0,11.0,1.0,65.0,125.0,60.0,7.0,55.0,0.0
+McDonald's Southwest Grilled Chicken Salad,Salads,350.0,11.0,4.5,0.0,110.0,1070.0,27.0,37.0,9.0,6.0
+McDonald's Pico Guacamole w/ Buttermilk Crispy Chicken,Sandwiches,710.0,34.0,9.0,0.0,85.0,1360.0,68.0,34.0,11.0,6.0
+McDonald's Extra Value Meal w/ Sausage McMuffin Egg & Medium Coffee,Sandwiches,620.0,39.0,13.0,0.0,275.0,1160.0,47.0,24.0,3.0,3.0
+McDonald's Extra Value Meal w/ Sausage Egg & Cheese McGriddles & Medium Coffee,Sandwiches,700.0,41.0,14.0,0.0,215.0,1620.0,63.0,23.0,16.0,4.0
+McDonald's McCafe French Vanilla Latte w/ Whole Milk Medium,Beverages,320.0,10.0,6.0,0.0,30.0,140.0,48.0,11.0,45.0,1.0
+McDonald's McCafe Strawberry Shake Large,Beverages,810.0,23.0,15.0,1.0,95.0,310.0,97.0,19.0,115.0,0.0
+McDonald's Extra Value Meal w/ Large Sausage Biscuit Egg & Small Coffee,Sandwiches,680.0,43.0,16.0,0.0,210.0,1500.0,55.0,20.0,3.0,4.0
+McDonald's McCafe Vanilla Shake Medium,Beverages,600.0,17.0,11.0,1.0,70.0,270.0,73.0,14.0,72.0,0.0
+McDonald's Hot Caramel Sundae,Desserts,380.0,11.0,6.0,0.0,30.0,160.0,51.0,9.0,44.0,1.0
+McDonald's McCafe Caramel Latte w/ Whole Milk Medium,Beverages,320.0,10.0,5.0,0.0,30.0,430.0,48.0,11.0,45.0,0.0
+McDonald's Newmans Own Creamy Southwest Dressing,Toppings & Ingredients,120.0,8.0,1.5,0.0,20.0,300.0,11.0,1.0,3.0,0.0
+McDonald's McCafe Caramel Mocha w/ Whole Milk Small,Beverages,310.0,11.0,7.0,0.0,35.0,230.0,44.0,9.0,40.0,0.0
+McDonald's Extra Value Meal w/ Regular Bacon Egg & Cheese Biscuit & Medium Coffee,Sandwiches,600.0,33.0,14.0,0.0,200.0,1640.0,57.0,22.0,3.0,4.0
+McDonald's McCafe Iced Coffee w/ Light Cream Small,Beverages,140.0,5.0,3.5,0.0,20.0,50.0,24.0,2.0,22.0,0.0
+McDonald's 10 Buttermilk Crispy Tenders,Entrees,1210.0,66.0,10.0,0.0,260.0,3390.0,56.0,98.0,1.0,3.0
+McDonald's Sausage McMuffin,Sandwiches,400.0,25.0,10.0,0.0,55.0,740.0,29.0,14.0,3.0,2.0
+McDonald's Sweet BBQ Bacon w/ Artisan Grilled Chicken,Sandwiches,640.0,23.0,7.0,0.0,135.0,1940.0,62.0,49.0,18.0,4.0
+McDonald's Fruit N Yogurt Parfait,Entrees,150.0,2.0,1.0,0.0,5.0,75.0,30.0,4.0,22.0,1.0
+McDonald's Sweet BBQ Bacon w/ Buttermilk Crispy Chicken,Sandwiches,810.0,36.0,9.0,0.5,95.0,1820.0,81.0,40.0,18.0,5.0
+McDonald's 20 Chicken McNuggets,Entrees,890.0,53.0,9.0,0.0,145.0,1680.0,53.0,49.0,0.0,4.0
+McDonald's Extra Value Meal w/ Buttermilk Crispy Chicken Sandwich Medium Coke & Medium Fries,Sandwiches,1130.0,39.0,7.0,0.0,60.0,1330.0,165.0,32.0,68.0,8.0
+McDonald's Dr Pepper Small,Beverages,140.0,0.0,0.0,0.0,0.0,40.0,38.0,0.0,37.0,0.0
+McDonald's Extra Value Meal w/ Sausage Egg & Cheese McGriddles,Entrees,700.0,41.0,14.0,0.0,215.0,1620.0,62.0,23.0,16.0,4.0
+McDonald's Pico Guacamole w/ Artisan Grilled Chicken,Sandwiches,550.0,21.0,7.0,0.0,120.0,1340.0,49.0,43.0,12.0,4.0
+McDonald's McCafe French Vanilla Iced Coffee w/ Light Cream Medium,Beverages,150.0,5.0,3.5,0.0,20.0,60.0,27.0,2.0,25.0,0.0
+McDonald's McCafe Strawberry Shake Medium,Beverages,600.0,18.0,11.0,1.0,75.0,230.0,71.0,14.0,84.0,0.0
+McDonald's Sprite Medium,Beverages,210.0,0.0,0.0,0.0,0.0,95.0,55.0,0.0,54.0,0.0
+McDonald's McFlurry w/ Oreo Cookies Regular Size,Desserts,510.0,17.0,9.0,0.5,45.0,280.0,60.0,12.0,64.0,1.0
+McDonald's McCafe Caramel Cappuccino w/ Whole Milk Medium,Beverages,260.0,6.0,3.5,0.0,20.0,390.0,44.0,8.0,40.0,0.0
+McDonald's McCafe Strawberry Shake Small,Beverages,500.0,15.0,9.0,0.5,60.0,190.0,61.0,12.0,71.0,0.0
+McDonald's Extra Value Meal w/ Regular Sausage Biscuit Egg & Medium Coffee,Sandwiches,680.0,43.0,16.0,0.0,205.0,1490.0,55.0,21.0,3.0,4.0
+McDonald's Extra Value Meal w/ 40 Pc Nuggets Medium Coke & Medium Fries,Entrees,2500.0,131.0,21.0,1.0,295.0,3770.0,229.0,104.0,58.0,13.0
+McDonald's Spicy Buffalo Sauce,Toppings & Ingredients,30.0,3.0,0.0,0.0,0.0,510.0,1.0,0.0,0.0,0.0
+McDonald's McCafe Caramel Macchiato w/ Whole Milk Large,Beverages,400.0,12.0,7.0,0.0,35.0,530.0,61.0,13.0,55.0,0.0
+McDonald's Big Mac Sauce,Toppings & Ingredients,70.0,7.0,1.0,0.0,5.0,75.0,1.0,0.0,1.0,0.0
+McDonald's McCafe Caramel Iced Coffee w/ Light Cream Large,Beverages,270.0,9.0,6.0,0.0,35.0,450.0,46.0,5.0,39.0,0.0
+McDonald's Extra Value Meal w/ Bacon Egg & Cheese McGriddles,Entrees,570.0,27.0,9.0,0.0,195.0,1570.0,62.0,22.0,15.0,4.0
+McDonald's McCafe Vanilla Shake Small,Beverages,490.0,14.0,9.0,0.5,60.0,230.0,61.0,11.0,59.0,0.0
+McDonald's McCafe Iced Latte w/ Whole Milk Small,Beverages,120.0,6.0,3.5,0.0,20.0,85.0,10.0,6.0,9.0,0.0
+McDonald's McCafe Caramel Cappuccino w/ Whole Milk Small,Beverages,210.0,5.0,3.0,0.0,15.0,300.0,35.0,6.0,32.0,0.0
+McDonald's POWERade Mountain Berry Blast Small,Beverages,90.0,0.0,0.0,0.0,0.0,110.0,22.0,0.0,22.0,0.0
+McDonald's Egg McMuffin,Sandwiches,300.0,12.0,6.0,0.0,245.0,730.0,30.0,18.0,3.0,2.0
+McDonald's Extra Value Meal w/ Double Quarter Pounder Medium Coke & Medium Fries,Burgers,1330.0,61.0,23.0,2.5,175.0,1570.0,143.0,55.0,67.0,7.0
+McDonald's McCafe Cappuccino w/ Whole Milk Medium,Beverages,160.0,8.0,5.0,0.0,25.0,110.0,13.0,8.0,12.0,0.0
+McDonald's Hot Fudge Sundae,Desserts,380.0,14.0,8.0,0.0,25.0,180.0,43.0,10.0,47.0,3.0
+McDonald's McCafe Caramel Latte w/ Whole Milk Small,Beverages,250.0,7.0,4.0,0.0,25.0,330.0,38.0,8.0,35.0,0.0
+McDonald's Extra Value Meal w/ Artisan Grilled Chicken Sandwich Medium Coke & Medium Fries,Sandwiches,940.0,22.0,4.0,0.0,95.0,1390.0,145.0,41.0,68.0,7.0
+McDonald's 2 Buttermilk Crispy Tenders,Entrees,240.0,13.0,2.0,0.0,50.0,680.0,11.0,20.0,0.0,1.0
+McDonald's McCafe Frappe Caramel Medium,Beverages,510.0,21.0,13.0,1.0,75.0,150.0,72.0,8.0,67.0,0.0
+McDonald's Fanta Orange Medium,Beverages,120.0,0.0,0.0,0.0,0.0,30.0,33.0,0.0,32.0,0.0
+McDonald's Hotcakes & Sausage,Entrees,790.0,35.0,13.0,0.0,80.0,890.0,103.0,16.0,45.0,2.0
+McDonald's McCafe Caramel Iced Coffee w/ Light Cream Medium,Beverages,190.0,7.0,4.5,0.0,25.0,310.0,31.0,4.0,26.0,0.0
+McDonald's Iced Tea Large,Beverages,5.0,0.0,0.0,0.0,0.0,20.0,0.0,1.0,0.0,0.0
+McDonald's Mayonnaise,Toppings & Ingredients,90.0,10.0,1.5,0.0,0.0,65.0,0.0,0.0,0.0,0.0
+McDonald's Tangy Barbeque Sauce,Toppings & Ingredients,45.0,0.0,0.0,0.0,0.0,250.0,11.0,0.0,9.0,0.0
+McDonald's McCafe Frappe Chocolate Chip Medium,Beverages,590.0,33.0,15.0,1.5,110.0,960.0,37.0,37.0,7.0,2.0
+McDonald's Extra Value Meal w/ Sausage McMuffin,Entrees,620.0,39.0,13.0,0.0,275.0,1150.0,47.0,24.0,3.0,3.0
+McDonald's Extra Value Meal w/ Big Mac Medium Coke & Medium Fries,Burgers,1090.0,44.0,12.0,1.0,80.0,1230.0,147.0,29.0,66.0,7.0
+McDonald's McCafe French Vanilla Cappuccino w/ Whole Milk Small,Beverages,190.0,5.0,3.0,0.0,15.0,70.0,30.0,6.0,29.0,0.0
+McDonald's McCafe Chocolate Shake Large,Beverages,850.0,23.0,14.0,1.0,90.0,420.0,110.0,19.0,122.0,1.0
+McDonald's McCafe Mocha Frappe Large,Beverages,670.0,26.0,17.0,1.0,90.0,190.0,97.0,11.0,88.0,1.0
+McDonald's Filet O Fish,Sandwiches,410.0,20.0,5.0,0.0,50.0,660.0,39.0,18.0,5.0,2.0
+McDonald's Extra Value Meal w/ Egg McMuffin,Entrees,450.0,21.0,7.0,0.0,245.0,1070.0,47.0,21.0,3.0,3.0
+McDonald's McCafe Cappuccino w/ Whole Milk Small,Beverages,120.0,6.0,3.5,0.0,20.0,80.0,9.0,6.0,9.0,0.0
+McDonald's Coca Cola Large,Beverages,290.0,0.0,0.0,0.0,0.0,70.0,77.0,0.0,77.0,0.0
+McDonald's McCafe French Vanilla Iced Coffee w/ Light Cream Large,Beverages,220.0,7.0,4.5,0.0,30.0,85.0,40.0,3.0,37.0,0.0
+McDonald's Extra Value Meal w/ 4 Pc Nuggets Medium Coke & Medium Fries,Entrees,730.0,27.0,4.0,0.0,30.0,620.0,111.0,14.0,57.0,5.0
+McDonald's McCafe Caramel Frappe Large,Beverages,670.0,27.0,17.0,1.0,95.0,200.0,96.0,11.0,89.0,0.0
+McDonald's McCafe Frappe Chocolate Chip Small,Beverages,500.0,22.0,14.0,1.0,65.0,130.0,72.0,8.0,64.0,1.0
+McDonald's Powerade Mountain Berry Blast Extra Small,Beverages,90.0,0.0,0.0,0.0,0.0,110.0,22.0,0.0,22.0,0.0
+McDonald's Sausage Biscuit,Sandwiches,460.0,30.0,13.0,0.0,40.0,1050.0,36.0,11.0,3.0,2.0
+McDonald's Bacon Egg & Cheese Biscuit,Sandwiches,450.0,24.0,12.0,0.0,200.0,1290.0,40.0,18.0,3.0,3.0
+McDonald's Steak Egg & Cheese Biscuit,Sandwiches,530.0,30.0,15.0,1.0,230.0,1490.0,40.0,25.0,4.0,3.0

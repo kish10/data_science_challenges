@@ -17,7 +17,28 @@
     },
     "root": {
       "inputs": {
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": "nixpkgs",
+        "scientificFhs": "scientificFhs"
+      }
+    },
+    "scientificFhs": {
+      "inputs": {
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1680824275,
+        "narHash": "sha256-bR6CmmuziWz3nD/5V4cKqU5D/KKuR5SnlWeVnJ57GwM=",
+        "owner": "olynch",
+        "repo": "scientific-fhs",
+        "rev": "b596f742201b4cd619470f190e0bda4e99e53e0b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "olynch",
+        "repo": "scientific-fhs",
+        "type": "github"
       }
     }
   },
